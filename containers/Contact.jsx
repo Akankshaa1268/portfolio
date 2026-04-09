@@ -9,7 +9,7 @@ const Contact = () => {
     {
       platform: "Linkedin",
       link: "@akankshapal1268",
-      actualLink: "www.linkedin.com/in/akankshapal1268",
+      actualLink: "https://www.linkedin.com/in/akankshapal1268/",
     },
     {
       platform: "Github",
