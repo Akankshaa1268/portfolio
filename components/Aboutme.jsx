@@ -1,6 +1,11 @@
 "use client";
 import React, { useState } from "react";
-import Lottie from "lottie-react";
+import dynamic from 'next/dynamic';
+
+// This tells Next.js: "Only load this when you're actually in the browser"
+const Lottie = dynamic(() => import("lottie-react"), { 
+  ssr: false 
+});
 import { online } from "@/public/assets/assets";
 
 const Aboutme = () => {
