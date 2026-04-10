@@ -5,6 +5,7 @@ import CraftComponent from "@/components/CraftComponent.jsx";
 import {
   abitco,
   stash,
+  threed,
   tarzan,
   campus,
   cardigan,
@@ -57,6 +58,14 @@ export default function Page() {
       labels: ["React", "TypeScript", "Tailwind"],
     },
      {
+      img: threed,
+      heading: "3d Portfolio",
+      subheading:
+        "The portfolio features smooth animations, dynamic sections, and interactive 3D elements to create an immersive experience for visitors.",
+      deployedLink: "https://akankshapal.vercel.app/",
+      labels: ["Three.js", "React","Framer Motion", "Tailwind CSS", "React Router DOM", "Vite", "React-three/fiber"],
+    },
+     {
       img: neuro,
       heading: "NeuroLens",
        subheading:
@@ -88,6 +97,7 @@ export default function Page() {
       deployedLink: "https://github.com/Akankshaa1268/Mirror-web-app",
       labels: ["Next.js", "TypeScript", "Tailwind CSS", "Prisma", "Chart.js", "React Dropzone"],
     },
+  
     {
       img: virtual,
       heading: "Virtual Vakil",

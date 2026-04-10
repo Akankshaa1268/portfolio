@@ -15,6 +15,7 @@ import stash from "./stash.png";
 import tarzan from "./tarzan.png";
 import neuro from "./neuro.jpeg";
 import mirror from "./mirror.jpg";
+import threed from "./threed.png";
 import petora from "./petora.jpeg";
 import virtual from "./virtual.jpg";
 import cardigan from "./cardigan.png";
@@ -60,6 +61,7 @@ export {
   dropdown,
   abitco,
   chatbot,
+  threed,
   portfolio,
   dashboard,
   punjab,
