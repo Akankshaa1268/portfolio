@@ -8,6 +8,7 @@ const outfit = Outfit({ subsets: ["latin"] });
 export const metadata = {
   title: "Akanksha Pal",
   description: "Portfolio",
+  icons: { icon: "/assets/akanksha.jpg" },
 };
 
 export default function RootLayout({ children }) {

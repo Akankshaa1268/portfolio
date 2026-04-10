@@ -1,4 +1,4 @@
-import me from "../public/assets/akanksha_pfp.jpg";
+import me from "../public/assets/akanksha.jpg";
 import Image from "next/image";
 
 const HeroSection = () => {
