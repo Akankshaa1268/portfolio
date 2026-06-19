@@ -1,12 +1,13 @@
 import bar from "./bar.png";
 import Bng from "./Bng.png";
-import clouds from "./clouds.png";
+import clouds from "./clouds.jpeg";
 import lotus from "./lotus.png";
-import plane from "./plane.png";
-import planeout from "./planeout.png";
+import parking from "./parking.jpg";
+import plane from "./plane.jpeg";
+import planeout from "./planeout.jpeg";
 import qutub from "./qutub.png";
 import redbrick from "./redbrick.png";
-import sft from "./sft.png";
+import sft from "./sft.jpeg";
 import sunset from "./sunset.png";
 import vase from "./vase.png";
 import online from "./online.json";
@@ -38,6 +39,7 @@ export {
   Bng,
   clouds,
   lotus,
+  parking,
   deck,
   plane,
   planeout,

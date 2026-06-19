@@ -3,6 +3,17 @@ import { useState } from "react";
 
 const companies = [
   {
+    position: "Cyber Security & Digital Forensics Intern",
+    companyName: "IGDTUW",
+    companyWebsite: "hybrid",
+    workedOn: [
+      "Undergoing training in secure coding, web security, cyber investigations, and digital forensics.",
+      "Working on hands-on labs involving vulnerability assessment, forensic analysis, and secure application development.",
+    ],
+    startingMonth: "June, 2026",
+    endingMonth: "Present",
+  },
+   {
     position: "AI Powered Full Stack Intern",
     companyName: "IGDTUW",
     companyWebsite: "hybrid",

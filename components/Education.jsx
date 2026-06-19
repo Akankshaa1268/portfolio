@@ -5,7 +5,7 @@ const EducationList = () => {
   const edu = {
     institution: "Indira Gandhi Delhi Technical University for Women",
     degree: "Bachelor of Technology in Computer Science and Engineering",
-    cgpa: "8.63",
+    cgpa: "8.74",
     duration: "2024 - 2028",
   };
 

@@ -8,8 +8,18 @@
     box-sizing: border-box;
     background-color: #f4f4f5;
 }
-
 /* secondary headings and paras */
 .text-sd{
     color: #71717a;
+}
+
+/* dark mode overrides */
+.dark * {
+    background-color: #111111;
+}
+.dark .text-sd {
+    color: #a1a1aa;
+}
+.dark body {
+    color: #e4e4e7;
 }

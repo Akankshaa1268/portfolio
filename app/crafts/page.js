@@ -6,6 +6,7 @@ import {
   abitco,
   stash,
   threed,
+  parking,
   tarzan,
   campus,
   cardigan,
@@ -49,6 +50,15 @@ export default function Page() {
       deployedLink: "https://bingo5706.vercel.app/",
       labels: ["React", "JavaScript", "Node.js", "Firebase", "Vite"],
     },
+    {
+      img: parking,
+      heading: "Traffic Management Model",
+      subheading:
+        "AI-driven parking intelligence that detects illegal-parking hotspots, quantifies their impact on traffic flow with a road-network-grounded score (PICS), forecasts where they'll be next, optimizes patrol routes, studies enforcement impact, and hands officers a mobile playbook turning patrol-based, reactive enforcement into targeted, proactive deployment.",
+      deployedLink: "https://parking.codexarena.app/",
+      labels: ["Python", "Dockerfile", "HTML"],
+    },
+
     {
       img: stash,
       heading: "Stash",

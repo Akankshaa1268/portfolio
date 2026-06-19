@@ -21,11 +21,7 @@ const Contact = () => {
       link: "akankshapal1207@gmail.com",
       actualLink: "mailto:akankshapal1207@gmail.com",
     },
-    {
-      platform: "Twitter",
-      link: "@akankshaa1268",
-      actualLink: "https://x.com/akankshaa1268",
-    },
+   
     {
       platform: "Leetcode",
       link: "@akankshaexl",
@@ -40,7 +36,8 @@ const Contact = () => {
       platform: "Resume",
       link: "/resume",
       actualLink:
-        "https://drive.google.com/file/d/146EUmNJeIX_S0hNDSzylVLVAkA9DE1fB/view?usp=sharing",
+      "https://drive.google.com/file/d/1QTuDX0XkRz2PtVorRHJzcrQyh10qacOY/view?usp=sharing",
+        
     },
   ];
   return (

@@ -7,6 +7,10 @@ const Achievements = () => {
       <div className="border-l-2 pl-6 hover:border-orange-300 cursor-default transition-all">
         <div>
           <ul className="list-disc flex flex-col gap-3 list-outside ml-3">
+             <li className="text-sd text-sm">
+              <span className="font-semibold">Pupil @ Codeforces</span>: 
+             1218(max).
+            </li>
             <li className="text-sd text-sm">
               <span className="font-semibold">HACKAVENSIS 1st Place Winner 2026</span>: 
               Outperformed <span className="font-semibold">1200+ participants</span> in a 24-hour sprint at <span className="font-semibold">MSIT, Delhi</span>.
