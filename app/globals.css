@@ -7,6 +7,7 @@
     margin: 0;
     box-sizing: border-box;
     background-color: #f4f4f5;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
 /* secondary headings and paras */
 .text-sd{
