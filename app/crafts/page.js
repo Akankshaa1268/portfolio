@@ -47,7 +47,7 @@ export default function Page() {
       heading: "Mr. Bingo",
       subheading:
         "An AI-powered behavioral intelligence web platform that analyzes cognitive game data to predict emotional triggers and generate actionable insights for parents of neurodivergent children.",
-      deployedLink: "https://bingo5706.vercel.app/",
+      deployedLink: "https://mrbingo-two.vercel.app/",
       labels: ["React", "JavaScript", "Node.js", "Firebase", "Vite"],
     },
     {
