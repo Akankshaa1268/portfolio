@@ -38,7 +38,7 @@ const Navbar = () => {
       </Link>
       <div className="w-1 mt-1 h-1 rounded-full bg-gray-600 opacity-50"></div>
       <Link
-        href="https://drive.google.com/file/d/146EUmNJeIX_S0hNDSzylVLVAkA9DE1fB/view?usp=sharing"
+        href="https://drive.google.com/file/d/15AW7Y0Q20TlhDihmPEPgXH1yn2Y3Ki00/view?usp=sharing"
         target="_blank"
       >
         <span>resume</span>

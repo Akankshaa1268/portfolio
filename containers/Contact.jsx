@@ -36,7 +36,7 @@ const Contact = () => {
       platform: "Resume",
       link: "/resume",
       actualLink:
-      "https://drive.google.com/file/d/1QTuDX0XkRz2PtVorRHJzcrQyh10qacOY/view?usp=sharing",
+      "https://drive.google.com/file/d/15AW7Y0Q20TlhDihmPEPgXH1yn2Y3Ki00/view?usp=sharing",
         
     },
   ];
